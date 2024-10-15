@@ -1,8 +1,6 @@
 # Digital_Marketing_DB_project_work-
 Data Base University Project work
 
-# Machine Learning Project: Tennis Table
-
 ## Group 3
 
 - **Conato Christian**
