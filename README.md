@@ -21,7 +21,6 @@ Data Base University Project work
 - **Boccia Tommaso**
   - Email: t.boccia4@studenti.unisa.it
   - Student ID: 0612705041
-  - github: https://github.com/Mariachiar
 
 ## Description:
 **Title**: Analysis of Marketing Campaigns for VPN Sponsorships via Just Chatting Streams on StreamZone
