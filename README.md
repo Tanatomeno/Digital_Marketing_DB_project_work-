@@ -7,6 +7,7 @@ Data Base University Project work
 
 - **Conato Christian**
   - Email: c.conato@studenti.unisa.it
+  - Student ID: 0612705143
   - github: https://github.com/MrElectric01
 
 - **Adolfo Balzano**
