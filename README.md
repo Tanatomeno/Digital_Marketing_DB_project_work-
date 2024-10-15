@@ -1,7 +1,7 @@
 # Digital_Marketing_DB_project_work-
 Data Base University Project work
 
-## Group 3
+### Group 3:
 
 - **Conato Christian**
   - Email: c.conato@studenti.unisa.it
