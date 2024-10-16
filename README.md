@@ -16,7 +16,7 @@ Data Base University Project work
 - **Del Gaudio Nunzio**
   - Email: n.delgaudio5@studenti.unisa.it
   - Student ID: 0612705044
-  - github: https://github.com/TheNightWatchman
+  - github: https://github.com/Tanatomeno
 
 - **Boccia Tommaso**
   - Email: t.boccia4@studenti.unisa.it
